@@ -1,0 +1,3 @@
+It makes sure database work is safe
+If everything works - save changes
+If something fails- undo everything
